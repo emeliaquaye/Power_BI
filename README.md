@@ -1,2 +1,2 @@
 # Power_BI
-Features interactive dashboards and insights created using Power BI.
+Features interactive reports and insights created using Power BI.
